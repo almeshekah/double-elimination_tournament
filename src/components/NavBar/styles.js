@@ -4,10 +4,6 @@ import { Link, NavLink } from "react-router-dom";
 export const NavItem = styled(NavLink)`
 	padding: 0.25em 1em;
 	color: black;
-	&.active {
-		color: grey;
-		background-color: pink;
-	}
 `;
 export const Logo = styled(Link)`
 	padding: 0.75em;
