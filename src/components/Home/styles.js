@@ -1,7 +1,6 @@
 import styled from "styled-components";
 export const Image = styled.img`
 	display: block;
-
 	margin-right: 90px;
 	margin-top: 90px;
 	width: 200px;
